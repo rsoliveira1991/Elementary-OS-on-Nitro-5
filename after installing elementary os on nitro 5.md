@@ -11,5 +11,5 @@ change energy to not to shut down the computer
 #this will make the computer have hdmi output through nvidia port:
 
 sudo apt install nvidia-driver-550
-sudo apt install ubuntu-driver-common
+sudo apt install ubuntu-driver-commons
 
